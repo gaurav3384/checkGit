@@ -1,0 +1,25 @@
+{
+  "name": "checkgit",
+  "version": "1.0.0",
+  "description": "test git commit description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaurav3384/checkGit.git"
+  },
+  "author": "Gaurav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaurav3384/checkGit/issues"
+  },
+  "homepage": "https://github.com/gaurav3384/checkGit#readme",
+  "dependencies": {
+    "jsonfile": "^6.0.1",
+    "moment": "^2.27.0",
+    "random": "^2.2.0",
+    "simple-git": "^2.20.1"
+  }
+}
